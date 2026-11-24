@@ -1,0 +1,6 @@
+driver,ratio,level,change_pct,share_of_log_growth_pct
+Active customers,1.2308,level1,23.0769,26.2258
+Orders per customer,1.6911,level1,69.1057,66.3547
+Average order value,1.0605,level1,6.0502,7.4195
+of which: unit prices,1.1864,level2,18.6440,
+of which: volume & mix per order,0.8939,level2,-10.6148,

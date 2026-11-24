@@ -1,0 +1,130 @@
+{
+  "data": {
+    "first_order": "1996-07-04",
+    "last_order": "1998-05-06",
+    "orders": 830,
+    "order_lines": 2155,
+    "customers_with_orders": 89,
+    "total_revenue": 1265793.04,
+    "base_window": "Jan–Apr 1997",
+    "current_window": "Jan–Apr 1998"
+  },
+  "q1": {
+    "revenue_base": 191321.88,
+    "revenue_current": 422290.24,
+    "revenue_growth_pct": 120.72,
+    "customers_base": 65,
+    "customers_current": 80,
+    "customers_retained": 59,
+    "customers_first_recorded_1998": 1,
+    "customers_first_recorded_1997H2_onward": 5,
+    "revenue_from_retained_pct": 84.18,
+    "price_change_pct": 18.64,
+    "price_products_compared": 71,
+    "price_products_excluded": 3,
+    "price_excluded_revenue_share_pct": 2.13,
+    "opc_change_pct": 69.11,
+    "customers_share_of_growth_pct": 26.23,
+    "opc_share_of_growth_pct": 66.35,
+    "aov_share_of_growth_pct": 7.42
+  },
+  "q2": {
+    "n_countries": 21,
+    "n_declining": 4,
+    "declining_countries": [
+      "Denmark",
+      "Canada",
+      "Mexico",
+      "Finland"
+    ],
+    "declining_share_base_year_pct": 13.66,
+    "declining_decline_rate_pct": 45.14,
+    "revenue_at_risk_annual": 38042.53,
+    "declining_customers_on_file": 12,
+    "top3_growth_countries": [
+      "USA",
+      "Germany",
+      "Brazil"
+    ],
+    "top3_share_of_growth_pct": 57.28,
+    "growth_leaders": [
+      {
+        "country": "USA",
+        "growth": 53190.05,
+        "top_account": "Save-a-lot Markets",
+        "top_account_share_pct": 38.22,
+        "top2_share_pct": 59.53
+      },
+      {
+        "country": "Germany",
+        "growth": 47406.86,
+        "top_account": "QUICK-Stop",
+        "top_account_share_pct": 45.63,
+        "top2_share_pct": 80.03
+      },
+      {
+        "country": "Brazil",
+        "growth": 31711.57,
+        "top_account": "Hanari Carnes",
+        "top_account_share_pct": 75.12,
+        "top2_share_pct": 89.66
+      }
+    ],
+    "biggest_account_drop": {
+      "CompanyName": "Simons bistro",
+      "Country": "Denmark",
+      "change": -11188.4,
+      "last_order": "1998-05-06"
+    }
+  },
+  "q3": {
+    "hanari_first_order": "1996-07-08",
+    "hanari_revenue_base_year": 6022.77,
+    "hanari_revenue_current_window": 23821.2,
+    "rolling_min_since_1997": 41.05,
+    "rolling_max_since_1997": 51.21,
+    "top10_share_base_pct": 46.1,
+    "top10_count_base": 7,
+    "top10_share_current_pct": 48.15,
+    "top10_count_current": 8,
+    "top3_share_current_pct": 24.91,
+    "top3_current": [
+      "QUICK-Stop",
+      "Ernst Handel",
+      "Save-a-lot Markets"
+    ],
+    "rolling_first": 36.34,
+    "rolling_last": 48.15,
+    "top_customers_growth_pct": 55.12,
+    "other_customers_growth_pct": 176.84
+  },
+  "q4": {
+    "discount_total": 88665.55,
+    "discount_pct_of_list": 6.55,
+    "lines_discounted_pct": 38.89,
+    "extra_units_min_pct": 26.02,
+    "extra_units_max_pct": 41.41,
+    "extra_units_5_pct": 32.98,
+    "extra_units_25_pct": 41.41,
+    "lines_dropped_rare_levels": 8,
+    "discount_above_cap": 36082.77,
+    "discount_on_lines_over_cap": 70717.06,
+    "cap_pct": 10.0,
+    "lines_over_cap_pct": 21.9,
+    "emp_max": {
+      "Employee": "Robert King",
+      "avg_discount_pct": 11.84,
+      "mean_line_discount_pct": 7.36
+    },
+    "emp_min": {
+      "Employee": "Janet Leverling",
+      "avg_discount_pct": 4.81
+    },
+    "reorder_discounted_pct": 82.99,
+    "reorder_full_price_pct": 64.05,
+    "reorder_n_discounted": 294,
+    "reorder_n_full_price": 331,
+    "reorder_last_eligible_date": "1998-02-05",
+    "reorder_days": 90
+  }
+}

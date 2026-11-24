@@ -1,0 +1,13 @@
+Country,CompanyName,revenue_base_year,revenue_base_window,revenue_current_window,last_order,days_since_last_order,change
+Denmark,Simons bistro,16232.4125,11188.4000,0.0000,1998-05-06,0,-11188.4000
+Canada,Mère Paillarde,23332.3100,10420.4600,0.0000,1997-10-30,188,-10420.4600
+Finland,Wartian Herkku,12262.9425,4131.8000,270.0000,1998-04-15,21,-3861.8000
+Mexico,Tortuga Restaurante,5523.3500,4150.0500,1514.5000,1998-05-04,2,-2635.5500
+Mexico,Pericles Comidas clásicas,2065.4000,2065.4000,1196.0000,1998-05-05,1,-869.4000
+Canada,Laughing Bacchus Wine Cellars,335.5000,278.0000,187.0000,1998-01-01,125,-91.0000
+Mexico,Antonio Moreno Taquería,5960.7775,749.0625,660.0000,1998-01-28,98,-89.0625
+Mexico,Centro comercial Moctezuma,0.0000,0.0000,0.0000,1996-07-18,657,0.0000
+Mexico,Ana Trujillo Emparedados y helados,799.7500,0.0000,514.4000,1998-03-04,63,514.4000
+Denmark,Vaffeljernet,8960.1250,2518.0000,4284.0000,1998-04-02,34,1766.0000
+Finland,Wilman Kala,1174.3500,0.0000,1987.0000,1998-04-07,29,1987.0000
+Canada,Bottom-Dollar Markets,7630.2500,4512.2500,11338.5500,1998-04-24,12,6826.3000
